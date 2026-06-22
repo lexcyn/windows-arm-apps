@@ -1509,7 +1509,6 @@ services:
       - name: "Imagine"
         logo: "assets/tools/imagine.png"
         subtitle: "Lightweight Freeware Image & Animation Viewer"
-        tag: "ARM64EC"        
         url: "https://www.nyam.pe.kr/dev/imagine/"
         target: "_blank" # optional html a tag target attribute
 
@@ -6107,7 +6106,7 @@ services:
       - name: "Azahar"
         logo: "assets/tools/azahar.png"
         subtitle: "Unofficial Build, 3DS emulator based on Citra"
-        url: "https://github.com/tordona/azahar/releases"
+        url: "https://github.com/tordona/azahar-win-arm64/releases"
         target: "_blank" # optional html a tag target attribute 
         
       - name: "xemu"
