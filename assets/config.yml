@@ -1802,7 +1802,7 @@ services:
       - name: "CloudCompare"
         logo: "assets/tools/cloudcompare.png"
         subtitle: "Unofficial native ARM64 community build by PRISMSCAN Technologies P.C."
-        url: "https://www.prismscan.eu/cloudcompare-arm64.html"
+        url: "https://www.prismscan.eu/cloudcompare-windows-arm64.html"
         target: "_blank"
 
       - name: "Maxon Cinema 4D"
