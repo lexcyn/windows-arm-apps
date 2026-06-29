@@ -1817,6 +1817,12 @@ services:
         url: "https://www.blender.org/download/"
         target: "_blank" # optional html a tag target attribute
 
+      - name: "CloudCompare"
+        logo: "assets/tools/cloudcompare.png"
+        subtitle: "Unofficial native ARM64 community build by PRISMSCAN Technologies P.C."
+        url: "https://www.prismscan.eu/cloudcompare-windows-arm64.html"
+        target: "_blank"
+
       - name: "Maxon Cinema 4D"
         logo: "assets/tools/maxoncinema4d.png"
         subtitle: "Professional 3D animation, modeling, simulation and rendering software solution."
