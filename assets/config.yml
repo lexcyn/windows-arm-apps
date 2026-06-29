@@ -1506,6 +1506,12 @@ services:
         url: "https://www.irfanview.com/arm64.htm"
         target: "_blank" # optional html a tag target attribute
 
+      - name: "Imagine"
+        logo: "assets/tools/imagine.png"
+        subtitle: "Lightweight Freeware Image & Animation Viewer"
+        url: "https://www.nyam.pe.kr/dev/imagine/"
+        target: "_blank" # optional html a tag target attribute
+
       - name: "Paint.NET"
         logo: "assets/tools/paintnet.png"
         subtitle: "Free image and photo editing software"
@@ -4560,6 +4566,12 @@ services:
         url: "https://www.msys2.org/wiki/arm64/"
         target: "_blank" # optional html a tag target attribute
 
+      - name: "Conan"
+        logo: "assets/tools/conan.png"
+        subtitle: "Decentralized, Portable C/C++ package manager"
+        url: "https://github.com/conan-io/conan/releases/latest"
+        target: "_blank" # optional html a tag target attribute
+
       - name: "Red Panda C++"
         logo: "assets/tools/redpanda.png"
         subtitle: "High-performance, C++ based, Kafka-compatible streaming engine."
@@ -6094,7 +6106,7 @@ services:
       - name: "Azahar"
         logo: "assets/tools/azahar.png"
         subtitle: "Unofficial Build, 3DS emulator based on Citra"
-        url: "https://github.com/tordona/azahar/releases"
+        url: "https://github.com/tordona/azahar-win-arm64/releases"
         target: "_blank" # optional html a tag target attribute 
         
       - name: "xemu"
