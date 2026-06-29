@@ -429,6 +429,12 @@ services:
         subtitle: "Play your favorite songs, podcasts and albums on Windows with Spotify."
         url: "https://apps.microsoft.com/detail/9ncbcszsjrsb"
         target: "_blank" # optional html a tag target attribute
+
+      - name: "Pear Desktop"
+        logo: "assets/tools/peardesktop.png"
+        subtitle: "Open-source, ultimate YouTube music player."
+        url: "https://github.com/pear-devs/pear-desktop/releases"
+        target: "_blank" # optional html a tag target attribute
         
       - name: "Trdo (Tiny Internet Radio Player)"
         logo: "assets/tools/trdo.png"
@@ -1661,6 +1667,12 @@ services:
         subtitle: "Open Source, Blazing fast ultra-light photo viewer that works similar to Picasa Photo Viewer."
         url: "https://github.com/riyasy/FlyPhotos"
         target: "_blank" # optional html a tag target attribute
+
+      - name: "Samsung Gallery"
+        logo: "assets/tools/samsunggallery.png"
+        subtitle: "View and edit the photos from your mobile phone on your computer’s larger screen."
+        url: "https://apps.microsoft.com/detail/9nblggh4n9r9"
+        target: "_blank" # optional html a tag target attribute
         
       - name: "RadiAnt DICOM Viewer"
         logo: "assets/tools/radiantdicomviewer.png"
@@ -2393,6 +2405,12 @@ services:
   - name: "Tools"
     icon: "fa-solid fa-screwdriver-wrench"
     items:
+      - name: "RustDesk"
+        logo: "assets/tools/rustdesk.png"
+        subtitle: "Open-source, remote desktop application designed for self-hosting, as an alternative to TeamViewer."
+        url: "https://github.com/rustdesk/rustdesk/releases"
+        target: "_blank"
+        
       - name: "UniGetUI"
         logo: "assets/tools/unigetui.png"
         subtitle: "Graphical Interface for your package managers."
@@ -2907,7 +2925,7 @@ services:
         subtitle: "Switch between windows of the same app."
         url: "https://github.com/sigoden/window-switcher/releases" # URL to download the app
         target: "_blank"
-
+        
       - name: "BeyondTrust Remote Support"
         logo: "assets/tools/beyondtrustremote.png"
         subtitle: "Enterprise remote support from anywhere."
@@ -4083,6 +4101,13 @@ services:
         url: "https://www.git-tower.com/windows"
         target: "_blank" # optional html a tag target attribute
 
+      - name: "GitKraken Desktop"
+        logo: "assets/tools/gitkraken.png"
+        subtitle: "Popular powerful graphical Git client."
+        tag: "Beta"
+        url: "https://www.gitkraken.com/download"
+        target: "_blank" # optional html a tag target attribute
+        
       - name: "GitComet"
         logo: "assets/tools/gitcomet.png"
         subtitle: "Open-source, fastest user interface for GIT workflows."
@@ -5149,6 +5174,12 @@ services:
         subtitle: "unofficial build, a cross-platform Tamagotchi P1 explorer"
         tag: "original port data needed"
         url: "https://github.com/mijk84/win-arm64-binaries/releases/tag/tamatool"
+        target: "_blank" # optional html a tag target attribute
+        
+      - name: "Amiberry"
+        logo: "assets/tools/amiberry.png"
+        subtitle: "Built on the WinUAE emulation core, optimized Amiga Emulator"
+        url: "https://github.com/BlitterStudio/amiberry/releases"
         target: "_blank" # optional html a tag target attribute
         
       - name: "WinFellow"
