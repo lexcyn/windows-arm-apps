@@ -7420,6 +7420,12 @@ services:
         url: "https://github.com/ArminiusTux/WinARM64-binaries/releases/tag/ChessEngines"
         target: "_blank" # optional html a tag target attribute
 
+      - name: "Lynx"
+        logo: "assets/tools/lynx.png"
+        subtitle: "ARM64, official builds"
+        url: "https://github.com/lynx-chess/Lynx/releases"
+        target: "_blank" # optional html a tag target attribute
+
   - name: "Artificial Intelligence"
     icon: "fa-solid fa-brain"
     items:
